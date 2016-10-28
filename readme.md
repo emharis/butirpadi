@@ -1,8 +1,3 @@
-[![Build Status](http://runbot.butirpadi.com/runbot/badge/flat/1/10.0.svg)](http://runbot.butirpadi.com/runbot)
-[![Tech Doc](http://img.shields.io/badge/10.0-docs-875A7B.svg?style=flat)](http://www.butirpadi.com/documentation/10.0)
-[![Help](http://img.shields.io/badge/10.0-help-875A7B.svg?style=flat)](https://www.butirpadi.com/forum/help-1)
-[![Nightly Builds](http://img.shields.io/badge/10.0-nightly-875A7B.svg?style=flat)](http://nightly.butirpadi.com/)
-
 Butirpadi
 ----
 
