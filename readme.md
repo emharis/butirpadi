@@ -3,7 +3,8 @@ Butirpadi
 
 Butirpadi is a suite of web based open source business apps.
 
-The main Butirpadi Apps include an <a href="https://www.butirpadi.com/page/crm">Open Source CRM</a>,
+The main Butirpadi Apps will soon include an 
+<a href="https://www.butirpadi.com/page/crm">Open Source CRM</a>,
 <a href="https://www.butirpadi.com/page/website-builder">Website Builder</a>,
 <a href="https://www.butirpadi.com/page/e-commerce">eCommerce</a>,
 <a href="https://www.butirpadi.com/page/warehouse">Warehouse Management</a>,
