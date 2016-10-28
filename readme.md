@@ -19,27 +19,3 @@ The main Butirpadi Apps include an <a href="https://www.butirpadi.com/page/crm">
 Butirpadi Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
 a full-featured <a href="https://www.butirpadi.com">Open Source ERP</a> when you install several Apps.
 
-
-Getting started with Butirpadi
--------------------------
-For a standard installation please follow the <a href="https://www.butirpadi.com/documentation/10.0/setup/install.html">Setup instructions</a>
-from the documentation.
-
-If you are a developer you may type the following command at your terminal:
-
-    wget -O- https://raw.githubusercontent.com/butirpadi/butirpadi/10.0/setup/setup_dev.py | python
-
-Then follow <a href="https://www.butirpadi.com/documentation/10.0/tutorials.html">the developer tutorials</a>
-
-
-For Butirpadi employees
-------------------
-
-To add the butirpadi-dev remote use this command:
-
-    $ ./setup/setup_dev.py setup_git_dev
-
-To fetch butirpadi merge pull requests refs use this command:
-
-    $ ./setup/setup_dev.py setup_git_review
-
